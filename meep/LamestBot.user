@@ -1,0 +1,29 @@
+#4v: eggdrop v1.6.21 -- Lamestbot -- written Tue Aug 30 22:00:00 2016
+mlue       - hjlmnoptx               
+! #pants               1472425038 -          
+--XTRA friend 60
+--XTRA created 1447083972
+--HOSTS *!*sid25308@coco.thief
+--HOSTS -telnet!*@*
+--LASTON 1472509974 @LamerBot
+--PASS +DnSzb/KNVzg1
+mizzle     - hp                      
+--XTRA created 1458230629
+--XTRA friend 50
+--HOSTS *!*mizzle@*.D749B913.736E6735.IP
+--LASTON 1472508170 #trousers
+LamerBot   - b                       
+--XTRA created 1458232062
+--HOSTS *!*mizzle@*.D749B913.736E6735.IP
+--PASS 6zifpuewqct
+--LASTON 1472509974 linked
+--BOTADDR 0.0.0.0:3334/3334
+Lamestbot  - b                       
+--XTRA created 1472509913
+--BOTADDR localhost:3334/3334
+::#pants bans
+::#trousers bans
+&&#pants exempts
+&&#trousers exempts
+$$#pants invites
+$$#trousers invites

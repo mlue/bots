@@ -1,0 +1,37 @@
+Debug (eggdrop v1.6.21) written Mon Aug 29 16:43:07 2016
+Full Patch List: 
+Tcl library: /usr/share/tcltk/tcl8.6
+Tcl version: 8.6.1 (header version 8.6.1)
+Tcl is threaded
+Configure flags:  '--with-tcllib=/usr/lib/x86_64-linux-gnu/libtcl.so' '--with-tclinc=/usr/include/tcl8.6/tcl.h' '--prefix=/home/eggdrop/usr/eggdrop/'
+Compile flags: gcc -g -O2 -pipe -Wall -I.. -I.. -DHAVE_CONFIG_H  
+Link flags: gcc
+Strip flags: touch
+Context: tclhash.c/242, []
+         tclhash.c/706, []
+         tclhash.c/710, [Tcl proc: *chon:console:chon, param:  $_chonof1 $_chonof2]
+         tclhash.c/721, []
+         tclhash.c/706, []
+         tclhash.c/710, [Tcl proc: *chon:notes, param:  $_chonof1 $_chonof2]
+         tclhash.c/721, []
+         tclhash.c/706, []
+         tclhash.c/710, [Tcl proc: *chon:channels:chon, param:  $_chonof1 $_chonof2]
+         tclhash.c/721, []
+         tclhash.c/706, []
+         tclhash.c/710, [Tcl proc: quotepong_bind, param:  $_event1]
+         tclhash.c/721, []
+         tclhash.c/706, []
+         tclhash.c/710, [Tcl proc: <null>, param:  $_event1]
+         tclhash.c/721 []
+
+SOCK ADDR     PORT  NICK      HOST              TYPE
+---- -------- ----- --------- ----------------- ----
+3    7F000101  3334 (telnet)  *                 lstn  3334
+-1   00000000     0                             lost
+-1   00000000     0                             lost
+9    7F000001 52315 mlue      telnet@127.0.0.1  chat  flags: cpTEp/0
+4    00000000     0 (dns)                       dns   (ready)
+-1   00000000  6667 (server)  c.p2p-network.net dns   waited 0s
+
+Compiled without extensive memory debugging (sorry).
+Open sockets: 3 (listen), 4 (passed on), 7 (file), 9, done.

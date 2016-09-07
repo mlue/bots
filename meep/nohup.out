@@ -1,0 +1,34 @@
+[20:16:52] --- Loading eggdrop v1.6.21 (Sat Mar 26 2016)
+[20:16:52] Listening at telnet port 3333 (all).
+[20:16:52] Module loaded: blowfish        
+[20:16:52] Module loaded: dns             
+[20:16:52] Module loaded: channels        
+[20:16:52] Module loaded: server          
+[20:16:52] Module loaded: ctcp            
+[20:16:52] Module loaded: irc             
+[20:16:52] LANG: No lang files found for section notes.
+[20:16:52] Module loaded: notes            (with lang support)
+[20:16:52] LANG: No lang files found for section console.
+[20:16:52] Module loaded: console          (with lang support)
+[20:16:52] Module loaded: uptime          
+[20:16:52] Loading dccwhois.tcl...
+[20:16:52] Loaded dccwhois.tcl
+[20:16:52] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ GENDER).
+[20:16:52] use '.help userinfo' for commands.
+[20:16:52] bMotion 0.1.0+svn starting up...
+[20:16:52] bMotion: loaded settings from the following files: scripts/bmotion/local/settings.tcl
+[20:16:54] loaded fact module
+[20:16:54] bMotion: new installation, need to send stats/check version...
+[20:16:54] bMotion 0.1.0+svn AI online :D
+[20:16:54] bMotion is Copyright (C) 2001-2012 James Seward. bMotion comes with ABSOLUTELY NO WARRANTY;
+[20:16:54] This is free software, and you are welcome to redistribute it under certain conditions.
+[20:16:54] See the COPYRIGHT file for details. See bMotion.tcl to hide this message once you have read it.
+[20:16:54] Writing channel file...
+[20:16:54] Userfile loaded, unpacking...
+[20:16:54] === Lamestbot: 2 channels, 3 users.
+
+Eggdrop v1.6.21 (C) 1997 Robey Pointer (C) 2011 Eggheads
+Launched into the background  (pid: 31531)
+
+
+Eggdrop v1.6.21 (C) 1997 Robey Pointer (C) 2011 Eggheads
